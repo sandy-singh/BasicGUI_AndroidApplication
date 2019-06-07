@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SandeepSinghHelloWorld</string>
+    <string name="hello_txt">Hello World, from Sandeep Singh </string>
+    <string name="question">Choose the Game of Thrones Character whose name starts with
+        first letter of my last name.</string>
+    <string name="radio_1">Jaime Lannister</string>
+    <string name="radio_2">Samwell Tarly</string>
+    <string name="radio_3">Bran Stark</string>
+    <string name="btn_check">Check</string>
+
+
+</resources>
